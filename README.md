@@ -120,6 +120,18 @@ Setelah mengetahui korelasi tersebut, tahap selanjutnya adalah mencari tren dari
 
 Dari nilai korelasi yang telah didapatkan yaitu 0.07 dan grafik scatter tidak menunjukan tren yang signifikan, maka dapat disimpulkan bahwa antara **Platform Rating dan Price tidak memiliki hubungan atau korelasi yang kuat** satu sama lain.
 
+## Data Visualization
+Setelah melakukan berbagai langkah dalam menganalisis data, tahap ini merupakan memvisualisasikan data yang ada pada dataset tersebut.
+* Jumlah Google Rating Steakhouse di Jakarta per-kategori.
+  ![image](https://github.com/redshoes11/DataStorytelling_SteakhouseJakarta2022/assets/80873008/f2c3a911-a628-4dfb-b9c1-9076473f7e4c)
+
+* Jumlah Platform Rating Steakhouse di Jakarta per-kategori.
+  ![image](https://github.com/redshoes11/DataStorytelling_SteakhouseJakarta2022/assets/80873008/a96b6fc0-b538-4f5b-9192-228ffddeaef3)
+
+## Kesimpulan
+Maka dari itu setelah dilakukan analisis diatas, dapat disimpulkan bahwa ada 17 restoran yang berada dibawah rata-rata untuk Google rating dan ada 61 restoran yang berada dibawah rata-rata untuk Platform rating. Rata-rata rating dari restoran steakhouse di Jakarta berdasarkan Google rating dan Platform rating adalah 4 dan 3,7. Rentang harga makanan steak di restoran-restoran tersebut adalah Rp242.608,-. Restoran Tucano's Churrascaria merupakan restoran yang mendapat rating bagus baik dari google Rating dan Platform Rating. Dari berbagai macam restoran-restoran tersebut, restoran yang perlu diperhatikan Parkiran Steak & Bar dan Roellie’s karena memiliki rating rendah di kedua data baik Google Rating dan Platform Rating. Sehingga, hal yang dapat dilakukan untuk meningkatkan rating steakhouse tersebut adalah dengan mulai untuk mempromosikan lebih luas lagi. Upaya ini akan dilakukan uji coba dalam rentang waktu satu kuartal atau sekitar empat bulan mulai dari Januari hingga April. Setelah dilakukan uji tersebut maka perlu analisis kembali terkait upaya meningkatkan destinasi tersebut.
+
+
 
 
 
